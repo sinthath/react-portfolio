@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.2e47e785.css",
+    "main.js": "/react-portfolio/static/js/main.b42edde1.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/headshot.jpg": "/react-portfolio/static/media/headshot.54759c776fa396b61d92.jpg",
+    "static/media/crypto-dash.jpg": "/react-portfolio/static/media/crypto-dash.cc10d5f06daabf75c73b.jpg",
+    "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.f6e2a787e88f9b48c39a.jpg",
+    "static/media/quiz-game.jpg": "/react-portfolio/static/media/quiz-game.61a652ab72dbb09134f4.jpg",
+    "static/media/work-day-scheduler.jpg": "/react-portfolio/static/media/work-day-scheduler.574f4f8e57d66b86b12a.jpg",
+    "static/media/team-profile-generator.jpg": "/react-portfolio/static/media/team-profile-generator.57df84bfb63c12907d41.jpg",
+    "static/media/hero-bg.jpg": "/react-portfolio/static/media/hero-bg.97432e606e06882e3885.jpg",
+    "static/media/pharmappoint.jpg": "/react-portfolio/static/media/pharmappoint.08e55ff78afe9c5d5a4e.jpg",
+    "static/media/note-taker.jpg": "/react-portfolio/static/media/note-taker.0a320ba8ae09d48acf66.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.2e47e785.css.map": "/react-portfolio/static/css/main.2e47e785.css.map",
+    "main.b42edde1.js.map": "/react-portfolio/static/js/main.b42edde1.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e47e785.css",
+    "static/js/main.b42edde1.js"
+  ]
+}
