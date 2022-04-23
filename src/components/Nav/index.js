@@ -30,4 +30,4 @@ function Nav(props) {
   )
 }
 
-export default Nav;s
+export default Nav;
