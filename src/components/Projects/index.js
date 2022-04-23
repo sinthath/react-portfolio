@@ -5,19 +5,19 @@ function Projects() {
 
   const [projects] = useState([
     {
-      name: 'Crypto Dash',
+      name: 'crypto-dash',
       description: 'An application that provides current information for crypto currencies',
       link: 'https://sinthath.github.io/crypto-dash/',
       repo: 'https://github.com/sinthath/crypto-dash'
     },
     {
-      name: 'X-File Quiz Game',
+      name: 'quiz-game',
       description: 'Trivia game for X-File fans',
       link: 'https://sinthath.github.io/week4/',
       repo: 'https://github.com/sinthath/week4'
     },
     {
-      name: 'Pharmappoint',
+      name: 'pharmappoint',
       description: 'Group project website providing pharmacy appointment bookings',
       repo: 'https://github.com/sinthath/Pharmappoint'
     },
@@ -34,13 +34,13 @@ function Projects() {
       repo: 'https://github.com/sinthath/note-taker'
     },
     {
-      name: 'Run Buddy',
+      name: 'run-buddy',
       description: 'A website that offers fitness training services',
       link: 'https://sinthath.github.io/run-buddy/',
       repo: 'https://github.com/sinthath/run-buddy'
     },
     {
-      name: 'Team Profile Generator',
+      name: 'team-profile-generator',
       description: 'An app for generating a webpage to showcase team members',
       repo: 'https://github.com/sinthath/team-profile-generator'
     }
